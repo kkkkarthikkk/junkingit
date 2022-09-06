@@ -1,5 +1,5 @@
 public class simple
-{ public stativ void main(string orgs[])
+{ public static void main(string orgs[])
 {
   system.out.println("hello");
 }}
